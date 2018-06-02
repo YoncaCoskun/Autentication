@@ -9,7 +9,6 @@ class LoginForm extends Component{
 
   onButtonPress(){
     //Butona tıklandığında sig in olabilme özelliği
-// deneme
 
     const { email, password } = this.state;
 
